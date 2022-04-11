@@ -96,4 +96,8 @@ select * from topMerchantsWithLowAmountTransactions
 
 ![view_TopMerchantsWithLowsTransactionAmounts.png](Images/view_TopMerchantsWithLowsTransactionAmounts.png)
 
+***Analysis from visual_data_analysis.ipynb***
+The chart for Id 2 shows consistent transactions in smaller ranges i.e between 1$ to 20$ range.
+The chart for Id 18 shows huge intermittent spikes in trasaction amounts above 1000$
+
 
